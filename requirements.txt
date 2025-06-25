@@ -1,0 +1,7 @@
+gradio
+scikit-learn
+numpy
+pandas
+matplotlib
+librosa
+praat-parselmouth
